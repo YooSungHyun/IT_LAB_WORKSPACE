@@ -1,0 +1,11 @@
+
+tb/course01/checkpoint
+*.NIKODEMOSPC
+*.data-00000-of-00001
+*.index
+*.meta
+tb/course02/checkpoint
+*.pyc
+*.log
+tkinter_grid_sample.py
+test.py
